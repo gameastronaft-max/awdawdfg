@@ -1,6 +1,0 @@
-# -------- fortnite --------
-- DOMAIN-SUFFIX,fortnite.com,DIRECT
-- DOMAIN,prod.ol.epicgames.com,DIRECT  # Игровые серверы
-- DOMAIN,akamaiedge.net,DIRECT
-- IP-CIDR,52.85.0.0/16,DIRECT,no-resolve 
-# -------- fortnite --------
